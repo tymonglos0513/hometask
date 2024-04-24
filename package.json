@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "concurrently \"cd backend && python manage.py runserver\" \"cd test && npm start\"",
+    "install": "concurrently \"cd backend && pip install -r requirements.txt\" \"cd test && npm install\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

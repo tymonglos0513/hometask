@@ -1,0 +1,1 @@
+export { default as NormalCountryFlag } from './NormalCountryFlag'
