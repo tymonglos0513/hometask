@@ -11,7 +11,7 @@ Python
 Django
 
 ### How to run this project?
-- git clone https://github.com/tymonglos0513/hometask
+- git clone https://github.com/tymonglos0513/hometask.git
 - cd hometask
 - npm install
 - npm run install
