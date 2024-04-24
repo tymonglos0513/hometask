@@ -11,11 +11,11 @@ Python
 Django
 
 ### How to run this project?
-git clone https://github.com/tymonglos0513/hometask
-cd hometask
-npm install
-npm run install
-npm run dev
+- git clone https://github.com/tymonglos0513/hometask
+- cd hometask
+- npm install
+- npm run install
+- npm run dev
 
 ### Host ###
 - Frontend
